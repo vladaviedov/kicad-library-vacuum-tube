@@ -1362,7 +1362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic triode (with heater)"
+		(property "Description" "Generic triode"
 			(at -9.652 24.638 0)
 			(effects
 				(font
