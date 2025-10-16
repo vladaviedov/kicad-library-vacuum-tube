@@ -2666,6 +2666,61 @@
 			)
 		)
 	)
+	(symbol "12AV6"
+		(extends "6AV6")
+		(property "Reference" "V"
+			(at 9.906 1.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "12AV6"
+			(at 9.906 -1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -16.764 21.336 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://frank.pocnet.net/sheets/093/6/6AV6.pdf"
+			(at -8.382 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Twin diode & high-mu triode, audio frequency, 12.6V / 0.15A heater"
+			(at -9.652 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "vacuum, valve, tube"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "3AV6"
 		(extends "6AV6")
 		(property "Reference" "V"
