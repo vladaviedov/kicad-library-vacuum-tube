@@ -465,7 +465,7 @@
 					(type none)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at -2.54 -3.81 90)
 				(length 3.81)
 				(name "H1"
@@ -483,7 +483,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin passive line
 				(at 2.54 -3.81 90)
 				(length 3.81)
 				(name "H2"
