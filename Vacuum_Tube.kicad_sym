@@ -2556,6 +2556,61 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "5V6"
+		(extends "6V6")
+		(property "Reference" "V"
+			(at 7.112 14.732 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5V6"
+			(at 8.382 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -16.764 21.336 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://tube-data.com/sheets/093/6/6V6GT.pdf"
+			(at -8.382 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Beam power tetrode, audio frequency, 4.7V / 0.6A heater"
+			(at -9.652 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "vacuum, valve, tube"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "6AV6"
 		(extends "6AT6")
 		(property "Reference" "V"
