@@ -53,4 +53,5 @@ For example:
 
 - `V_Pentode` - Generic pentode, no heater
 - `V_Pentode_G3K` - Generic pentode, G3 internally connected to K, no heater
-- `V_Diode_H` - Generic diode, with heater
+- `V_Triode_H` - Generic triode, with heater
+- `V_Diode_F` - Generic diode, directly heated cathode
