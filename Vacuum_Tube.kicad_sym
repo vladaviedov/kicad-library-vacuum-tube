@@ -3885,6 +3885,61 @@
 			)
 		)
 	)
+	(symbol "6AX7"
+		(extends "12AX7")
+		(property "Reference" "V"
+			(at 8.128 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "6AX7"
+			(at 9.906 -1.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -16.764 21.336 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://tube-data.com/sheets/137/1/12AX7.pdf"
+			(at -8.382 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "High-mu twin triode, audio frequency, 6.3V / 0.3A or 3.15V / 0.6A tapped heater"
+			(at -9.652 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "vacuum, valve, tube"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "12AV6"
 		(extends "6AV6")
 		(property "Reference" "V"
