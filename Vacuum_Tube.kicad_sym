@@ -3123,6 +3123,61 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "12SN7"
+		(extends "6SN7")
+		(property "Reference" "V"
+			(at 8.128 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "12SN7"
+			(at 10.668 -1.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -16.764 21.336 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://tube-data.com/sheets/137/6/6SN7GT.pdf"
+			(at -8.382 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Medium-mu twin triode, audio frequency, 12.6V / 0.3A heater"
+			(at -9.652 24.638 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "vacuum, valve, tube"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(symbol "5V6"
 		(extends "6V6")
 		(property "Reference" "V"
