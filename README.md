@@ -46,12 +46,12 @@ for creating new symbols.
 The naming pattern for these symbols is:
 
 ```
-V_<type>_[variation]_[heater]
+VT_<type>_[variation]_[heater]
 ```
 
 For example:
 
-- `V_Pentode` - Generic pentode, no heater
-- `V_Pentode_G3K` - Generic pentode, G3 internally connected to K, no heater
-- `V_Triode_H` - Generic triode, with heater
-- `V_Diode_F` - Generic diode, directly heated cathode
+- `VT_Pentode` - Generic pentode, no heater
+- `VT_Pentode_G3K` - Generic pentode, G3 internally connected to K, no heater
+- `VT_Triode_H` - Generic triode, with heater
+- `VT_Diode_F` - Generic diode, directly heated cathode

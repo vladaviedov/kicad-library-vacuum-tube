@@ -9,7 +9,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.128 1.27 0)
 			(effects
 				(font
@@ -606,7 +606,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.636 8.382 0)
 			(effects
 				(font
@@ -925,7 +925,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.636 8.382 0)
 			(effects
 				(font
@@ -1244,7 +1244,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.588 17.018 0)
 			(effects
 				(font
@@ -1744,7 +1744,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 9.398 1.016 0)
 			(effects
 				(font
@@ -2403,7 +2403,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.128 1.27 0)
 			(effects
 				(font
@@ -2784,7 +2784,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.334 16.002 0)
 			(effects
 				(font
@@ -3303,7 +3303,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.128 1.27 0)
 			(effects
 				(font
@@ -3870,7 +3870,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.112 14.732 0)
 			(effects
 				(font
@@ -4377,7 +4377,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.112 14.732 0)
 			(effects
 				(font
@@ -4879,7 +4879,7 @@
 	)
 	(symbol "12SN7"
 		(extends "6SN7")
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.128 1.27 0)
 			(effects
 				(font
@@ -4934,7 +4934,7 @@
 	)
 	(symbol "5V6"
 		(extends "6V6")
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.112 14.732 0)
 			(effects
 				(font
@@ -4989,7 +4989,7 @@
 	)
 	(symbol "6AV6"
 		(extends "6AT6")
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 9.398 1.016 0)
 			(effects
 				(font
@@ -5044,7 +5044,7 @@
 	)
 	(symbol "6AX7"
 		(extends "12AX7")
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.128 1.27 0)
 			(effects
 				(font
@@ -5099,7 +5099,7 @@
 	)
 	(symbol "12AV6"
 		(extends "6AV6")
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 9.906 1.016 0)
 			(effects
 				(font
@@ -5154,7 +5154,7 @@
 	)
 	(symbol "3AV6"
 		(extends "6AV6")
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 9.398 1.016 0)
 			(effects
 				(font

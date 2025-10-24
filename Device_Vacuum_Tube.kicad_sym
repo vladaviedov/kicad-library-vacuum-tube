@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "V_Diode"
+	(symbol "VT_Diode"
 		(pin_numbers
 			(hide yes)
 		)
@@ -12,7 +12,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.874 1.27 0)
 			(effects
 				(font
@@ -20,7 +20,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Diode"
+		(property "Value" "VT_Diode"
 			(at 11.176 -0.762 0)
 			(effects
 				(font
@@ -64,7 +64,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Diode_1_1"
+		(symbol "VT_Diode_1_1"
 			(polyline
 				(pts
 					(xy -3.81 -3.048) (xy -3.81 -4.064)
@@ -224,7 +224,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Diode_F"
+	(symbol "VT_Diode_F"
 		(pin_numbers
 			(hide yes)
 		)
@@ -234,7 +234,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.874 1.27 0)
 			(effects
 				(font
@@ -242,7 +242,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Diode_F"
+		(property "Value" "VT_Diode_F"
 			(at 11.938 -0.508 0)
 			(effects
 				(font
@@ -286,7 +286,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Diode_F_1_1"
+		(symbol "VT_Diode_F_1_1"
 			(polyline
 				(pts
 					(xy -2.54 -6.35) (xy -2.54 -4.445) (xy 0 -1.905) (xy 2.54 -4.445) (xy 2.54 -6.35)
@@ -440,7 +440,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Diode_H"
+	(symbol "VT_Diode_H"
 		(pin_numbers
 			(hide yes)
 		)
@@ -450,7 +450,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.874 1.27 0)
 			(effects
 				(font
@@ -458,7 +458,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Diode_H"
+		(property "Value" "VT_Diode_H"
 			(at 12.192 -0.762 0)
 			(effects
 				(font
@@ -510,7 +510,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Diode_H_1_1"
+		(symbol "VT_Diode_H_1_1"
 			(polyline
 				(pts
 					(xy -3.81 -3.048) (xy -3.81 -4.064)
@@ -668,7 +668,7 @@
 				)
 			)
 		)
-		(symbol "V_Diode_H_2_1"
+		(symbol "VT_Diode_H_2_1"
 			(polyline
 				(pts
 					(xy -2.54 0) (xy -2.54 1.905) (xy 0 4.445) (xy 2.54 1.905) (xy 2.54 0)
@@ -720,7 +720,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_FWR"
+	(symbol "VT_FWR"
 		(pin_numbers
 			(hide yes)
 		)
@@ -730,7 +730,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 10.668 9.906 0)
 			(effects
 				(font
@@ -738,7 +738,7 @@
 				)
 			)
 		)
-		(property "Value" "V_FWR"
+		(property "Value" "VT_FWR"
 			(at 10.668 7.62 0)
 			(effects
 				(font
@@ -782,7 +782,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_FWR_1_1"
+		(symbol "VT_FWR_1_1"
 			(polyline
 				(pts
 					(xy -3.81 -3.048) (xy -3.81 -4.064)
@@ -972,7 +972,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_FWR_F"
+	(symbol "VT_FWR_F"
 		(pin_numbers
 			(hide yes)
 		)
@@ -982,7 +982,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 10.668 9.906 0)
 			(effects
 				(font
@@ -990,7 +990,7 @@
 				)
 			)
 		)
-		(property "Value" "V_FWR_F"
+		(property "Value" "VT_FWR_F"
 			(at 10.668 7.62 0)
 			(effects
 				(font
@@ -1034,7 +1034,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_FWR_F_1_1"
+		(symbol "VT_FWR_F_1_1"
 			(polyline
 				(pts
 					(xy -2.54 3.048) (xy -2.54 6.35)
@@ -1218,7 +1218,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_FWR_H"
+	(symbol "VT_FWR_H"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1228,7 +1228,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 10.668 9.906 0)
 			(effects
 				(font
@@ -1236,7 +1236,7 @@
 				)
 			)
 		)
-		(property "Value" "V_FWR_H"
+		(property "Value" "VT_FWR_H"
 			(at 10.668 7.62 0)
 			(effects
 				(font
@@ -1288,7 +1288,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_FWR_H_1_1"
+		(symbol "VT_FWR_H_1_1"
 			(polyline
 				(pts
 					(xy -3.81 -3.048) (xy -3.81 -4.064)
@@ -1476,7 +1476,7 @@
 				)
 			)
 		)
-		(symbol "V_FWR_H_2_1"
+		(symbol "VT_FWR_H_2_1"
 			(polyline
 				(pts
 					(xy -2.54 0) (xy -2.54 1.905) (xy 0 4.445) (xy 2.54 1.905) (xy 2.54 0)
@@ -1528,7 +1528,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Pentode"
+	(symbol "VT_Pentode"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1538,7 +1538,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.334 16.002 0)
 			(effects
 				(font
@@ -1546,7 +1546,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Pentode"
+		(property "Value" "VT_Pentode"
 			(at 9.652 13.97 0)
 			(effects
 				(font
@@ -1590,7 +1590,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Pentode_1_1"
+		(symbol "VT_Pentode_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 7.62)
@@ -1960,7 +1960,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Pentode_G3K"
+	(symbol "VT_Pentode_G3K"
 		(pin_numbers
 			(hide yes)
 		)
@@ -1970,7 +1970,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.334 16.002 0)
 			(effects
 				(font
@@ -1978,7 +1978,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Pentode_G3K"
+		(property "Value" "VT_Pentode_G3K"
 			(at 11.938 13.97 0)
 			(effects
 				(font
@@ -2022,7 +2022,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Pentode_G3K_1_1"
+		(symbol "VT_Pentode_G3K_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 7.62)
@@ -2386,7 +2386,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Pentode_G3K_H"
+	(symbol "VT_Pentode_G3K_H"
 		(pin_numbers
 			(hide yes)
 		)
@@ -2396,7 +2396,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.334 16.002 0)
 			(effects
 				(font
@@ -2404,7 +2404,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Pentode_G3K_H"
+		(property "Value" "VT_Pentode_G3K_H"
 			(at 13.208 13.97 0)
 			(effects
 				(font
@@ -2456,7 +2456,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Pentode_G3K_H_1_1"
+		(symbol "VT_Pentode_G3K_H_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 7.62)
@@ -2818,7 +2818,7 @@
 				)
 			)
 		)
-		(symbol "V_Pentode_G3K_H_2_1"
+		(symbol "VT_Pentode_G3K_H_2_1"
 			(polyline
 				(pts
 					(xy -2.54 0) (xy -2.54 1.905) (xy 0 4.445) (xy 2.54 1.905) (xy 2.54 0)
@@ -2870,7 +2870,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Pentode_H"
+	(symbol "VT_Pentode_H"
 		(pin_numbers
 			(hide yes)
 		)
@@ -2880,7 +2880,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.334 16.002 0)
 			(effects
 				(font
@@ -2888,7 +2888,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Pentode_H"
+		(property "Value" "VT_Pentode_H"
 			(at 10.668 13.97 0)
 			(effects
 				(font
@@ -2940,7 +2940,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Pentode_H_1_1"
+		(symbol "VT_Pentode_H_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 7.62)
@@ -3308,7 +3308,7 @@
 				)
 			)
 		)
-		(symbol "V_Pentode_H_2_1"
+		(symbol "VT_Pentode_H_2_1"
 			(polyline
 				(pts
 					(xy -2.54 0) (xy -2.54 1.905) (xy 0 4.445) (xy 2.54 1.905) (xy 2.54 0)
@@ -3360,7 +3360,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Tetrode"
+	(symbol "VT_Tetrode"
 		(pin_numbers
 			(hide yes)
 		)
@@ -3370,7 +3370,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.08 11.938 0)
 			(effects
 				(font
@@ -3378,7 +3378,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Tetrode"
+		(property "Value" "VT_Tetrode"
 			(at 9.144 9.906 0)
 			(effects
 				(font
@@ -3422,7 +3422,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Tetrode_1_1"
+		(symbol "VT_Tetrode_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 3.81)
@@ -3738,7 +3738,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Tetrode_Beam"
+	(symbol "VT_Tetrode_Beam"
 		(pin_numbers
 			(hide yes)
 		)
@@ -3748,7 +3748,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.112 14.732 0)
 			(effects
 				(font
@@ -3756,7 +3756,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Tetrode_Beam"
+		(property "Value" "VT_Tetrode_Beam"
 			(at 14.224 12.954 0)
 			(effects
 				(font
@@ -3800,7 +3800,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Tetrode_Beam_1_1"
+		(symbol "VT_Tetrode_Beam_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 7.62)
@@ -4152,7 +4152,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Tetrode_Beam_H"
+	(symbol "VT_Tetrode_Beam_H"
 		(pin_numbers
 			(hide yes)
 		)
@@ -4162,7 +4162,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.112 14.732 0)
 			(effects
 				(font
@@ -4170,7 +4170,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Tetrode_Beam_H"
+		(property "Value" "VT_Tetrode_Beam_H"
 			(at 15.24 12.954 0)
 			(effects
 				(font
@@ -4222,7 +4222,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Tetrode_Beam_H_1_1"
+		(symbol "VT_Tetrode_Beam_H_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 7.62)
@@ -4572,7 +4572,7 @@
 				)
 			)
 		)
-		(symbol "V_Tetrode_Beam_H_2_1"
+		(symbol "VT_Tetrode_Beam_H_2_1"
 			(polyline
 				(pts
 					(xy -2.54 0) (xy -2.54 1.905) (xy 0 4.445) (xy 2.54 1.905) (xy 2.54 0)
@@ -4624,7 +4624,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Tetrode_H"
+	(symbol "VT_Tetrode_H"
 		(pin_numbers
 			(hide yes)
 		)
@@ -4634,7 +4634,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 5.08 11.938 0)
 			(effects
 				(font
@@ -4642,7 +4642,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Tetrode_H"
+		(property "Value" "VT_Tetrode_H"
 			(at 10.16 9.906 0)
 			(effects
 				(font
@@ -4694,7 +4694,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Tetrode_H_1_1"
+		(symbol "VT_Tetrode_H_1_1"
 			(polyline
 				(pts
 					(xy -6.35 -0.254) (xy -6.35 3.81)
@@ -5008,7 +5008,7 @@
 				)
 			)
 		)
-		(symbol "V_Tetrode_H_2_1"
+		(symbol "VT_Tetrode_H_2_1"
 			(polyline
 				(pts
 					(xy -2.54 0) (xy -2.54 1.905) (xy 0 4.445) (xy 2.54 1.905) (xy 2.54 0)
@@ -5060,7 +5060,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Triode"
+	(symbol "VT_Triode"
 		(pin_numbers
 			(hide yes)
 		)
@@ -5070,7 +5070,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.128 1.27 0)
 			(effects
 				(font
@@ -5078,7 +5078,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Triode"
+		(property "Value" "VT_Triode"
 			(at 11.684 -1.016 0)
 			(effects
 				(font
@@ -5122,7 +5122,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Triode_1_1"
+		(symbol "VT_Triode_1_1"
 			(polyline
 				(pts
 					(xy -3.81 0) (xy -3.81 0)
@@ -5348,7 +5348,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "V_Triode_H"
+	(symbol "VT_Triode_H"
 		(pin_numbers
 			(hide yes)
 		)
@@ -5358,7 +5358,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 8.128 1.27 0)
 			(effects
 				(font
@@ -5366,7 +5366,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Triode_H"
+		(property "Value" "VT_Triode_H"
 			(at 12.7 -1.016 0)
 			(effects
 				(font
@@ -5418,7 +5418,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Triode_H_1_1"
+		(symbol "VT_Triode_H_1_1"
 			(polyline
 				(pts
 					(xy -3.81 0) (xy -3.81 0)
@@ -5642,7 +5642,7 @@
 				)
 			)
 		)
-		(symbol "V_Triode_H_2_1"
+		(symbol "VT_Triode_H_2_1"
 			(polyline
 				(pts
 					(xy -2.54 0) (xy -2.54 1.905) (xy 0 4.445) (xy 2.54 1.905) (xy 2.54 0)

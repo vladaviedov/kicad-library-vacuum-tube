@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "V_Regulator"
+	(symbol "VT_Regulator"
 		(pin_numbers
 			(hide yes)
 		)
@@ -12,7 +12,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 10.668 9.906 0)
 			(effects
 				(font
@@ -20,7 +20,7 @@
 				)
 			)
 		)
-		(property "Value" "V_Regulator"
+		(property "Value" "VT_Regulator"
 			(at 10.668 7.62 0)
 			(effects
 				(font
@@ -64,7 +64,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "V_Regulator_1_1"
+		(symbol "VT_Regulator_1_1"
 			(arc
 				(start -0.0001 -6.4769)
 				(mid -4.4926 -4.6195)

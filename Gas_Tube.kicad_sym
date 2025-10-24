@@ -9,7 +9,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "V"
+		(property "Reference" "VT"
 			(at 7.112 8.128 0)
 			(effects
 				(font
